@@ -218,7 +218,8 @@
           "pets": "Not suitable for pets",
           "events": "No parties or events",
           "check-in": "3PM - 10PM",
-          "check-out": "12PM (noon)"
+          "check-out": "12PM (noon)",
+          "details": "We would like to bring your attention to a few request while you enjoy your stay: /p 1. As this is a private home, your respectful use of furnishings, decor, facilities is truly appreciated. Quiet hours 11 pm-8 am. Max occupancy determined at the time of your reservation. US 50 per night per person will be charge when default on notifying the correct number of parties. /p 2. This is a NON SMOKING property but you are welcome to do so in the balcony area. Thank you for your respect for future visitors staying after you. /p 3. No PETS allowed. /p Enjoy your stay."
         },
         "cancellation": {
           "policy-type": "Super Strict 60",
