@@ -210,19 +210,19 @@
         ],
         "prices": {
           "price": "$175",
-          "extra-people": "No Charge",
+          "extra_people": "No Charge",
           "security-deposit": "$500"
         },
         "house_rules": {
           "smoking": "No smoking",
           "pets": "Not suitable for pets",
           "events": "No parties or events",
-          "check-in": "3PM - 10PM",
-          "check-out": "12PM (noon)",
+          "check_in": "3PM - 10PM",
+          "check_out": "12PM (noon)",
           "details": "We would like to bring your attention to a few request while you enjoy your stay: /n 1. As this is a private home, your respectful use of furnishings, decor, facilities is truly appreciated. Quiet hours 11 pm-8 am. Max occupancy determined at the time of your reservation. US 50 per night per person will be charge when default on notifying the correct number of parties. /n 2. This is a NON SMOKING property but you are welcome to do so in the balcony area. Thank you for your respect for future visitors staying after you. /n 3. No PETS allowed. /n Enjoy your stay."
         },
         "cancellation": {
-          "policy-type": "Super Strict 60",
+          "policy_type": "Super Strict 60",
           "details": "Cancel up to 60 days before check in and get a 50% refund (minus service fees). Cancel within 60 days of your trip and the reservation is non-refundable. Service fees are refunded when cancellation happens before check in and within 48 hours of booking."
         },
         "safety_features": [
@@ -230,7 +230,7 @@
         ],
         "availability": {
           "days": [],
-          "min-stay": "5 nights"
+          "min_stay": 5
         }
       },
       "ratings": {
@@ -239,10 +239,10 @@
         "communication": 5,
         "cleanliness": 5,
         "location": 5,
-        "check-in": 5,
+        "check_in": 5,
         "value": 5
       },
-      "similar-listings": [
+      "similar_listings": [
         {
           "id": 1,
           "name": "Newly Renovated Grand Luxury Beachfront Oceanview",
