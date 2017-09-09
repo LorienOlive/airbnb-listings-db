@@ -209,7 +209,7 @@
           }
         ],
         "prices": {
-          "price": "$175",
+          "price": 175,
           "extra_people": "No Charge",
           "security-deposit": "$500"
         },
