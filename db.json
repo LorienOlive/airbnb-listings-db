@@ -13,10 +13,10 @@
       "beds": 1,
       "baths": 2,
       "saves": 2849,
+      "space": "Located in the heart of the romantic zone, Romantic Amapas is a heaven of luxury itself. Romantic Amapas is located in the Romantic Zone in the beautiful old town of Puerto Vallarta. Breathtaking views from the double terrace will provide a life time of memories of spectacular sunsets, rolling waves of the Pacific Ocean and the pristine Los Muertos Beach. \n The condo offers not only a prime location and magnificent views but has been appointed with only the best that you would expect. Come pamper yourself. High-end finishes and all the amenities you’re looking for in a vacation rental, Romantic Amapas has everything and more.",
+      "guest_access": "You’ll enjoy an on-site gym plus a roof top pool area with Jacuzzi, barbeque and shaded areas all overlooking the magnificent beach.",
+      "interaction": "Our concierge department, Mexitravels will be pending of any of your needs.",
       "description": {
-        "space": "Located in the heart of the romantic zone, Romantic Amapas is a heaven of luxury itself. Romantic Amapas is located in the Romantic Zone in the beautiful old town of Puerto Vallarta. Breathtaking views from the double terrace will provide a life time of memories of spectacular sunsets, rolling waves of the Pacific Ocean and the pristine Los Muertos Beach. \n The condo offers not only a prime location and magnificent views but has been appointed with only the best that you would expect. Come pamper yourself. High-end finishes and all the amenities you’re looking for in a vacation rental, Romantic Amapas has everything and more.",
-        "guest_access": "You’ll enjoy an on-site gym plus a roof top pool area with Jacuzzi, barbeque and shaded areas all overlooking the magnificent beach.",
-        "interaction": "Our concierge department, Mexitravels will be pending of any of your needs.",
         "amenities": [
           {
             "name": "Elevator",
@@ -212,7 +212,12 @@
         "prices": {
           "price": 175,
           "extra_people": "No Charge",
-          "security-deposit": "$500"
+          "security_deposit": "$500"
+        },
+        "sleeping_arrangements": {
+          "title": "Sleeping arrangements",
+          "bedrooms": 1,
+          "beds": "1 king bed"
         },
         "house_rules": {
           "smoking": "No smoking",
